@@ -1,0 +1,7 @@
+★ENCABEZADO
+nombre: MAMI
+creador(a): papoy
+fecha_creacion: 20/March/2024
+atributos: EDAD
+
+★DETALLE

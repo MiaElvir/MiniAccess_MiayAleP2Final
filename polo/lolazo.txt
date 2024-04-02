@@ -1,0 +1,7 @@
+★ENCABEZADO
+nombre: lolazo
+creador(a): papoy
+fecha_creacion: 20/March/2024
+atributos: id,edad
+
+★DETALLE

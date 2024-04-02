@@ -1,0 +1,7 @@
+★ENCABEZADO
+nombre: HU
+creador(a): papita
+fecha_creacion: 19/marzo/2024
+atributos: 1,2
+
+★DETALLE

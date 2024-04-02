@@ -1,0 +1,7 @@
+★ENCABEZADO
+nombre: GT
+creador(a): papita
+fecha_creacion: 19/marzo/2024
+atributos: o,O
+
+★DETALLE

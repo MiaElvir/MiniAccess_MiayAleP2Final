@@ -1,0 +1,9 @@
+★ENCABEZADO
+nombre: PP
+creador(a): LOLA
+fecha_creacion: 19/marzo/2024
+atributos: O,O
+
+★DETALLE
+0M,0
+1,100
